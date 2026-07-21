@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>The Practice of Emotionally Focused Couple Therapy</title>
-        <itunes:title>The Practice of Emotionally Focused Couple Therapy</itunes:title>
-        <description>The Practice of Emotionally Focused Couple Therapy</description>
-        <itunes:summary>The Practice of Emotionally Focused Couple Therapy</itunes:summary>
+        <title>EFCT Practice Discussion</title>
+        <itunes:title>EFCT Practice Discussion</itunes:title>
+        <description>EFCT Practice Discussion</description>
+        <itunes:summary>EFCT Practice Discussion</itunes:summary>
         <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
         <link>https://github.com/ccz245/data-efct-practice-b7a43dec52df</link>
         <language>en-us</language>
@@ -18,7 +18,7 @@ Traces the paradigm shift that made EFT possible: the relationship is no longer 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep01_ch01_revolution.mp3" length="12283749" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep01</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:17:04</itunes:duration>
             <itunes:summary>Chapter 1: The Field of Couple Therapy and EFT
@@ -33,7 +33,7 @@ Unpacks the neurobiology behind EFT's claim that isolation is a biological hazar
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep02_ch01_biological_hazard.mp3" length="14260173" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep02</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:19:48</itunes:duration>
             <itunes:summary>Chapter 1: The Field of Couple Therapy and EFT
@@ -48,7 +48,7 @@ Walks through Johnson's ten tenets of adult attachment, showing why secure depen
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep03_ch02_ten_tenets.mp3" length="11895360" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep03</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:16:31</itunes:duration>
             <itunes:summary>Chapter 2: An Attachment View of Love: The EFT Approach
@@ -63,7 +63,7 @@ Frames attachment theory as a theory of trauma, recasting relationship distress 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep04_ch02_trauma_isolation.mp3" length="13385280" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep04</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:18:35</itunes:duration>
             <itunes:summary>Chapter 2: An Attachment View of Love: The EFT Approach
@@ -78,7 +78,7 @@ Unpacks EFT's humanistic experiential roots — the therapist as process consult
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep05_ch03_experiential_heart.mp3" length="11984072" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep05</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:16:39</itunes:duration>
             <itunes:summary>Chapter 3: The EFT Theory of Change: Within and Between
@@ -93,7 +93,7 @@ Explores EFT's systemic half — interactional positions, demand-withdraw sequen
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep06_ch03_systemic_dance.mp3" length="13758622" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep06</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:19:06</itunes:duration>
             <itunes:summary>Chapter 3: The EFT Theory of Change: Within and Between
@@ -108,7 +108,7 @@ Walks through the EFT Tango as a macro-intervention: mirroring present process, 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep07_ch04_tango_playbook.mp3" length="13079961" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep07</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:18:10</itunes:duration>
             <itunes:summary>Chapter 4: The Basics of EFT Interventions: Emotions and the Macro-Intervention, the EFT Tango
@@ -123,7 +123,7 @@ Breaks emotion into its five working parts - trigger, initial perception, body r
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep08_ch04_assembly_emotion.mp3" length="15360764" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep08</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:21:20</itunes:duration>
             <itunes:summary>Chapter 4: The Basics of EFT Interventions: Emotions and the Macro-Intervention, the EFT Tango
@@ -138,7 +138,7 @@ Breaks down the six elements of RISSSC (repeat, images, simple, slow, soft, clie
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep09_ch05_rissc_voice.mp3" length="10653708" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep09</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:14:48</itunes:duration>
             <itunes:summary>Chapter 5: Basic EFT Micro Skills: Experiential and Systemic
@@ -153,7 +153,7 @@ Walks through Tango Moves 3 and 4 — directing a partner to share new vulnerabi
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep10_ch05_enactments_change.mp3" length="12747684" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep10</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:17:42</itunes:duration>
             <itunes:summary>Chapter 5: Basic EFT Micro Skills: Experiential and Systemic
@@ -168,7 +168,7 @@ How the first EFT sessions build a therapeutic alliance that both partners exper
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep11_ch06_assessment_alliance.mp3" length="14191210" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep11</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:19:43</itunes:duration>
             <itunes:summary>Chapter 6: Assessment: Defining the Dance and Listening to the Music
@@ -183,7 +183,7 @@ How to build a topographic map of a couple's negative interaction cycle by track
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep12_ch06_mapping_the_dance.mp3" length="14533205" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep12</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:20:11</itunes:duration>
             <itunes:summary>Chapter 6: Assessment: Defining the Dance and Listening to the Music
@@ -198,7 +198,7 @@ How to run Tango Move 2 (affect assembly and deepening) by tracking trigger, per
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep13_ch07_accessing_undercurrents.mp3" length="16263556" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep13</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:22:35</itunes:duration>
             <itunes:summary>Chapter 7: Changing the Music: Toward De-Escalation/Stabilization
@@ -213,7 +213,7 @@ What Step 4 de-escalation actually looks like in the room: the couple rises abov
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep14_ch07_killing_the_cycle.mp3" length="13736680" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep14</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:19:05</itunes:duration>
             <itunes:summary>Chapter 7: Changing the Music: Toward De-Escalation/Stabilization
@@ -228,7 +228,7 @@ How Step 5 works for the withdrawer: helping him own the strategy behind the num
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep15_ch08_withdrawer_reengagement.mp3" length="11397571" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep15</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:15:50</itunes:duration>
             <itunes:summary>Chapter 8: Deepening Engagement: The Beginning of Stage 2
@@ -243,7 +243,7 @@ Step 6 from the observing partner's seat: why a heartfelt disclosure often meets
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep16_ch08_promoting_acceptance.mp3" length="13663014" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep16</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:18:59</itunes:duration>
             <itunes:summary>Chapter 8: Deepening Engagement: The Beginning of Stage 2
@@ -258,7 +258,7 @@ How Step 7 turns a placating, silent partner into someone who states terms and n
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep17_ch09_withdrawer_reengagement_assertive.mp3" length="13631667" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep17</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:18:56</itunes:duration>
             <itunes:summary>Chapter 9: Reaching for Secure Connection
@@ -273,7 +273,7 @@ Walks through EFT's signature change event, where the blaming partner faces the 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep18_ch09_pursuer_softening.mp3" length="13265849" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep18</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:18:25</itunes:duration>
             <itunes:summary>Chapter 9: Reaching for Secure Connection
@@ -288,7 +288,7 @@ Step 8 shows why couples suddenly solve pragmatic issues like money or work hour
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep19_ch10_solving_the_unsolvable.mp3" length="14231021" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep19</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:19:46</itunes:duration>
             <itunes:summary>Chapter 10: The Consolidation of a Secure Base: Stage 3
@@ -303,7 +303,7 @@ Step 9 and termination: how to recognize when a couple is ready to fly on their 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep20_ch10_scaffolding_the_future.mp3" length="14134159" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep20</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:19:38</itunes:duration>
             <itunes:summary>Chapter 10: The Consolidation of a Secure Base: Stage 3
@@ -318,7 +318,7 @@ Why the therapeutic bond and the perceived relevance of tasks forecast EFT outco
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep21_ch11_who_wins_in_eft.mp3" length="13354560" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep21</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:18:33</itunes:duration>
             <itunes:summary>Chapter 11: Key Clinical Issues and Solutions: Becoming an EFT Therapist
@@ -333,7 +333,7 @@ How trainees slip from process consultant into referee, and the move back: retur
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep22_ch11_the_therapists_tango.mp3" length="12650822" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep22</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:17:34</itunes:duration>
             <itunes:summary>Chapter 11: Key Clinical Issues and Solutions: Becoming an EFT Therapist
@@ -348,7 +348,7 @@ How EFFT reframes an adolescent's bulimia or depression as a protest against a p
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep23_ch12_the_family_dance.mp3" length="13349545" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep23</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:18:32</itunes:duration>
             <itunes:summary>Chapter 12: EFFT: Emotionally Focused Family Therapy
@@ -363,7 +363,7 @@ Why a parent's cool distance or agitation is usually a shield forged from shame 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep24_ch12_the_parents_shield.mp3" length="13382459" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep24</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:18:35</itunes:duration>
             <itunes:summary>Chapter 12: EFFT: Emotionally Focused Family Therapy
@@ -378,7 +378,7 @@ How a betrayal at a moment of acute need becomes a relationship trauma that bloc
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep25_ch13_attachment_injuries_trauma.mp3" length="12826051" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep25</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:17:49</itunes:duration>
             <itunes:summary>Chapter 13: Relationship Traumas: Addressing Attachment Injuries
@@ -393,7 +393,7 @@ Forgiveness in EFT is an emotional reorganization, not a cognitive letting-go: t
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep26_ch13_forgiveness_resolution.mp3" length="13773356" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep26</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:19:08</itunes:duration>
             <itunes:summary>Chapter 13: Relationship Traumas: Addressing Attachment Injuries
@@ -408,7 +408,7 @@ Walks through Stage 1 de-escalation as it plays out in a live session: how the t
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep27_ch14_stage1_transcript_deescalation.mp3" length="14446688" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep27</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:20:04</itunes:duration>
             <itunes:summary>Chapter 14: Live at an EFT Externship: A Stage 1 EFT Session
@@ -423,7 +423,7 @@ Covers affect assembly and deepening: catching the sub-second shifts — a quive
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep28_ch14_tracking_the_micro_dance.mp3" length="14095602" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep28</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:19:35</itunes:duration>
             <itunes:summary>Chapter 14: Live at an EFT Externship: A Stage 1 EFT Session
@@ -438,7 +438,7 @@ Walks through the live moment a blaming partner drops the protest and voices vul
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep29_ch15_stage2_transcript_softening.mp3" length="13215380" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep29</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:18:21</itunes:duration>
             <itunes:summary>Chapter 15: A Stage 2 EFT Session
@@ -453,7 +453,7 @@ Shows what a restructured bond looks like in session: reciprocal attunement, con
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-efct-practice-b7a43dec52df/audio/efct-practice_ep30_ch15_restructuring_the_bond.mp3" length="13412552" type="audio/mpeg"/>
             <guid isPermaLink="false">efct-practice_ep30</guid>
-            <itunes:author>The Practice of Emotionally Focused Couple Therapy</itunes:author>
+            <itunes:author>EFCT Practice Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-efct-practice-b7a43dec52df/cover.png"/>
             <itunes:duration>00:18:38</itunes:duration>
             <itunes:summary>Chapter 15: A Stage 2 EFT Session
